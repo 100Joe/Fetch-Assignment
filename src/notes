@@ -1,0 +1,11 @@
+Payer is string 
+points is Number 
+timestamp is ???
+
+['DANNON', 'UNILEVER', 'DANNON', 'MILLER COORS', 'DANNON']
+
+
+Patch Transactions for Specific payer and date
+
+
+return all payer points (findall)
